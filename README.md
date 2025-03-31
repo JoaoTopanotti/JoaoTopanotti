@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @joaotopanotti
 - 👀 I’m interested in coding, video games (like everyone in git)
 - 🌱 I’m currently learning Java Script
-- 😄 Pronouns: he/his
 - ⚡ Fun fact: My first coding language was PowerShell, very unusual 
