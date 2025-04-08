@@ -8,12 +8,15 @@
 <a href="https://www.instagram.com/joaotopanotti?igsh=MTByMm1sYWNicWxlYg==">
   <img align="left" alt="Joao Vitor Topanotti Barbosa | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
+<a href="https://open.spotify.com/user/no3u745eqb6lhythb3cbgpw9s?si=0e250ad3385e4226">
+  <img align="left" alt="Joao Vitor Topanotti Barbosa | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
+</a>
 </br>
 
 ### 🧔🏻 About me
 
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
-- 👨🏻‍💻 IT Intern at [FS Agrisolutions]([https://www.kobe.io/](https://www.fs.agr.br))
+- 👨🏻‍💻 IT Intern at [FS Agrisolutions](https://www.fs.agr.br)
 - 🎓 Computer Engineering Student [UNINTER](https://www.uninter.com/graduacao/a-distancia/)
 - 🐦 I’m currently learning **JavaScript** **HTML** and **CSS**
 - 🤓 Interest in **Automation** and **Full Stack**.
@@ -28,7 +31,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
-[<img align="left" alt="PowerShell" width="26px" src="https://w7.pngwing.com/pngs/650/754/png-transparent-powershell-scripting-language-programming-language-path-shell-blue-angle-rectangle-thumbnail.png" />][powershell]
+[<img align="left" alt="PowerShell" width="26px" src="https://w7.pngwing.com/pngs/698/375/png-transparent-powershell-microsoft-windows-management-instrumentation-computer-icons-microsoft-thumbnail.png" />][powershell]
 
 ### 🎧 Spotify Playing
 
