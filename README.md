@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/joaotopanotti?igsh=MTByMm1sYWNicWxlYg==">
   <img align="left" alt="Joao Vitor Topanotti Barbosa | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
+</br>
 
 ### 🧔🏻 About me
 
