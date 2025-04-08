@@ -18,7 +18,7 @@
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
 - 👨🏻‍💻 IT Intern at [FS Agrisolutions](https://www.fs.agr.br)
 - 🎓 Computer Engineering Student [UNINTER](https://www.uninter.com/graduacao/a-distancia/)
-- 🐦 I’m currently learning **JavaScript** **HTML** and **CSS**
+- 🐦 I’m currently learning **JavaScript**, **HTML** and **CSS**
 - 🤓 Interest in **Automation** and **Full Stack**
 
 
