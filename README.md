@@ -32,7 +32,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/12148950715)
+[<img src="https://nowplaying.aidenwallis.co.uk/67f472139fcf0d64d2361718" alt="JoaoBarbosa Spotify Playing" width="350" />](https://open.spotify.com/user/no3u745eqb6lhythb3cbgpw9s?si=0e250ad3385e4226)
 
 [gmail]: mailto:topanotti09@gmail.com
 [instagram]: https://www.instagram.com/joaotopanotti?igsh=MTByMm1sYWNicWxlYg==
@@ -43,4 +43,3 @@
 [python]: https://www.python.org
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://git-scm.com/
-[studio]: https://developer.android.com/studio
