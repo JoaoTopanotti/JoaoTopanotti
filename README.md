@@ -18,7 +18,7 @@
 <!-- - 🌱 I’m currently learning **Flutter**, **Node.js** and **Javascript** -->
 - 👨🏻‍💻 IT Analyst at [FS Agrisolutions](https://www.fs.agr.br)
 - 🎓 Computer Engineering Student [UNINTER](https://www.uninter.com/graduacao/a-distancia/)
-- 🐦 I’m currently learning **JavaScript**, **HTML** and **CSS**
+- 🐦 I’m currently learning **C**, **C#** and **C++**
 - 🤓 Interest in **Automation** and **Full Stack**
 
 
@@ -32,6 +32,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
 [<img align="left" alt="PowerShell" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEBTiuysA0g94MR9yswB2NOnnEhqXhtlS2w&s" />][powershell]
+[<img align="left" alt="C" width="26px" src="https://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png" />][C]
 
 [gmail]: mailto:topanotti09@gmail.com
 [instagram]: https://www.instagram.com/joaotopanotti?igsh=MTByMm1sYWNicWxlYg==
@@ -43,3 +44,4 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://git-scm.com/
 [powershell]: https://learn.microsoft.com/pt-br/powershell/
+[C]: https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170
